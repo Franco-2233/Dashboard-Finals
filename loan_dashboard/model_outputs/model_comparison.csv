@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,Test AUC,Train AUC,AUC gap (train-test)
+Logistic Regression,0.9373,0.8767,0.8533,0.8649,0.9793,0.9811,0.0018
+Gradient Boosting,0.9075,0.8273,0.7667,0.7958,0.9574,0.9922,0.0348
+Random Forest,0.8918,0.8293,0.68,0.7473,0.948,1.0,0.052
+Baseline (majority),0.7649,0.0,0.0,0.0,0.5,0.5,0.0
